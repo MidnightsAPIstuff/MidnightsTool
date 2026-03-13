@@ -1,7 +1,6 @@
 # Midnights Tool
 
-ok so um like yeah
-
+**PLEASE DO NOT DOWNLOAD SOURCE CODE.ZIP ON RELEASES, ITS MESSED UP LOL, JUST DOWJLOAD THE .PY OR .EXE!**
 has:
 
 ```
